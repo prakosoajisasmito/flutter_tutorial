@@ -1,6 +1,6 @@
 # full_tutorial
 
-A new Flutter project.
+Learn Flutter Framework.
 
 ## Getting Started
 
