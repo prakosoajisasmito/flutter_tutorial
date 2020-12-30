@@ -48,6 +48,13 @@ flutter:
   assets:
     - assets/icons/books.png
     - assets/icons/rocket.png
+    - assets/images/bg1.jpg
+    - assets/images/bg2.jpg
+    - assets/images/bg3.jpg
+    - assets/images/logo.png
+    - assets/images/pattern1.png
+    - assets/images/pattern2.png
+    - assets/images/pattern3.png
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
