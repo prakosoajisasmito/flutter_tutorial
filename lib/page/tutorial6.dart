@@ -33,6 +33,7 @@ class _TutorialEnamState extends State<TutorialEnam> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: <Widget>[
+                // ignore: deprecated_member_use
                 RaisedButton(
                   child: Text(
                     "Tambah Angka",
@@ -53,6 +54,7 @@ class _TutorialEnamState extends State<TutorialEnam> {
                     });
                   },
                 ),
+                // ignore: deprecated_member_use
                 RaisedButton(
                   child: Text(
                     "Hapus Angka",

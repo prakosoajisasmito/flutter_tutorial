@@ -180,20 +180,22 @@ class TutorialSepuluh extends StatelessWidget {
             ],
           ),
           Align(
-              alignment: Alignment.bottomCenter,
-              child: Container(
-                margin: EdgeInsets.only(bottom: 10),
-                height: 50,
-                width: 200,
-                child: RaisedButton(
-                  color: Colors.green,
-                  child: Text(
-                    'My Button',
-                    style: TextStyle(fontSize: 20, color: Colors.white),
-                  ),
-                  onPressed: () {},
+            alignment: Alignment.bottomCenter,
+            child: Container(
+              margin: EdgeInsets.only(bottom: 10),
+              height: 50,
+              width: 200,
+              // ignore: deprecated_member_use
+              child: RaisedButton(
+                color: Colors.green,
+                child: Text(
+                  'My Button',
+                  style: TextStyle(fontSize: 20, color: Colors.white),
                 ),
-              )),
+                onPressed: () {},
+              ),
+            ),
+          ),
         ],
       ),
     );

@@ -48,6 +48,13 @@ class TutorialTujuh extends StatelessWidget {
                       color: Colors.blue,
                     ),
                   ),
+                  Flexible(
+                    flex: 1,
+                    child: Container(
+                      margin: EdgeInsets.all(5),
+                      color: Colors.blue,
+                    ),
+                  ),
                 ],
               ),
             ),

@@ -2,7 +2,16 @@ import 'package:flutter/material.dart';
 import 'package:full_tutorial/page/tutorial1.dart';
 import 'package:full_tutorial/page/tutorial10.dart';
 import 'package:full_tutorial/page/tutorial11.dart';
+import 'package:full_tutorial/page/tutorial12.dart';
+import 'package:full_tutorial/page/tutorial13.dart';
+import 'package:full_tutorial/page/tutorial14.dart';
+import 'package:full_tutorial/page/tutorial15.dart';
+import 'package:full_tutorial/page/tutorial16.dart';
+import 'package:full_tutorial/page/tutorial17.dart';
+import 'package:full_tutorial/page/tutorial18.dart';
+import 'package:full_tutorial/page/tutorial19.dart';
 import 'package:full_tutorial/page/tutorial2.dart';
+import 'package:full_tutorial/page/tutorial20.dart';
 import 'package:full_tutorial/page/tutorial3.dart';
 import 'package:full_tutorial/page/tutorial4.dart';
 import 'package:full_tutorial/page/tutorial5.dart';
@@ -68,7 +77,42 @@ Items item11 = new Items(
   title: "Card Widgets",
   url: TutorialSebelas(),
 );
-
+Items item12 = new Items(
+  title: "Text Field",
+  url: TutorialDuabelas(),
+);
+Items item13 = new Items(
+  title: "Text Field Costume",
+  url: TutorialTigabelas(),
+);
+Items item14 = new Items(
+  title: "Media Query",
+  url: TutorialEmpatbelas(),
+);
+Items item15 = new Items(
+  title: "Button Costume",
+  url: TutorialLimabelas(),
+);
+Items item16 = new Items(
+  title: "Card Costume",
+  url: TutorialEnambelas(),
+);
+Items item17 = new Items(
+  title: "Login Page",
+  url: TutorialTujuhbelas(),
+);
+Items item18 = new Items(
+  title: "Hero Animation",
+  url: TutorialDepalanbelas(),
+);
+Items item19 = new Items(
+  title: "AppBar Custom Height",
+  url: TutorialSembilanbelas(),
+);
+Items item20 = new Items(
+  title: "Tab Bar",
+  url: TutorialDuapuluh(),
+);
 List<Items> myList = [
   item1,
   item2,
@@ -81,4 +125,13 @@ List<Items> myList = [
   item9,
   item10,
   item11,
+  item12,
+  item13,
+  item14,
+  item15,
+  item16,
+  item17,
+  item18,
+  item19,
+  item20,
 ];
