@@ -12,7 +12,20 @@ import 'package:full_tutorial/page/tutorial18.dart';
 import 'package:full_tutorial/page/tutorial19.dart';
 import 'package:full_tutorial/page/tutorial2.dart';
 import 'package:full_tutorial/page/tutorial20.dart';
+import 'package:full_tutorial/page/tutorial21.dart';
+import 'package:full_tutorial/page/tutorial22.dart';
+import 'package:full_tutorial/page/tutorial23.dart';
+import 'package:full_tutorial/page/tutorial24.dart';
+import 'package:full_tutorial/page/tutorial25.dart';
+import 'package:full_tutorial/page/tutorial26.dart';
+import 'package:full_tutorial/page/tutorial27.dart';
+import 'package:full_tutorial/page/tutorial28.dart';
+import 'package:full_tutorial/page/tutorial29.dart';
 import 'package:full_tutorial/page/tutorial3.dart';
+import 'package:full_tutorial/page/tutorial30.dart';
+import 'package:full_tutorial/page/tutorial31.dart';
+import 'package:full_tutorial/page/tutorial32.dart';
+import 'package:full_tutorial/page/tutorial33.dart';
 import 'package:full_tutorial/page/tutorial4.dart';
 import 'package:full_tutorial/page/tutorial5.dart';
 import 'package:full_tutorial/page/tutorial6.dart';
@@ -113,6 +126,58 @@ Items item20 = new Items(
   title: "Tab Bar",
   url: TutorialDuapuluh(),
 );
+Items item21 = new Items(
+  title: "Tab Bar Costume",
+  url: TutorialDuapuluhSatu(),
+);
+Items item22 = new Items(
+  title: "Button Belah Ketupat Warna Warni (Transform)",
+  url: TutorialDuapuluhDua(),
+);
+Items item23 = new Items(
+  title: "Gradient Opacity ShaderMask",
+  url: TutorialDuapuluhTiga(),
+);
+Items item24 = new Items(
+  title: "Memainkan Musik / Sound",
+  url: TutorialDuapuluhEmpat(),
+);
+Items item25 = new Items(
+  title: "ClipPath",
+  url: TutorialDuapuluhLima(),
+);
+Items item26 = new Items(
+  title: "HTTP Request POST",
+  url: TutorialDuapuluhEnam(),
+);
+Items item27 = new Items(
+  title: "HTTP Request Get",
+  url: TutorialDuapuluhTujuh(),
+);
+Items item28 = new Items(
+  title: "HTTP Request Get Kumpulan Data",
+  url: TutorialDuapuluhTDelapan(),
+);
+Items item29 = new Items(
+  title: "Switch & AnimatedSwitcher Widget",
+  url: TutorialDuapuluhTSembilan(),
+);
+Items item30 = new Items(
+  title: "Animation Padding",
+  url: TutorialTigapuluh(),
+);
+Items item31 = new Items(
+  title: "Shared Preferences",
+  url: TutorialTigapuluhSatu(),
+);
+Items item32 = new Items(
+  title: "Provider State Management",
+  url: TutorialTigapuluhDua(),
+);
+Items item33 = new Items(
+  title: "Multi Provider State Management",
+  url: TutorialTigapuluhTiga(),
+);
 List<Items> myList = [
   item1,
   item2,
@@ -134,4 +199,17 @@ List<Items> myList = [
   item18,
   item19,
   item20,
+  item21,
+  item22,
+  item23,
+  item24,
+  item25,
+  item26,
+  item27,
+  item28,
+  item29,
+  item30,
+  item31,
+  item32,
+  item33,
 ];
